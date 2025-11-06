@@ -8,10 +8,10 @@ A sleek Flutter app that allows users to search for any song and instantly retri
 ## Screenshots
 
 <p float="left">  
- <img src="Screenshot_1.jpg" width="200" />  
- <img src="Screenshot_2.jpg" width="200" />   
-  <img src="Screenshot_3.jpg" width="200" />  
- <img src="Screenshot_4.jpg" width="200" />  
+ <img src="screenshot/Screenshot_1.jpg" width="200" />  
+ <img src="screenshot/Screenshot_2.jpg" width="200" />   
+  <img src="screenshot/Screenshot_3.jpg" width="200" />  
+ <img src="screenshot/Screenshot_4.jpg" width="200" />  
 </p>
 
 ## Features:
