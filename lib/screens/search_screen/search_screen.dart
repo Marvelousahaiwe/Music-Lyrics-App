@@ -79,6 +79,7 @@ class _SearchScreenState extends State<SearchScreen> {
             (lastSearchedSong.trim().isEmpty
                 ? ""
                 : ": " + lastSearchedSong.trim()),
+        style: Theme.of(context).textTheme.titleMedium,
       ),
       actions: <Widget>[
         IconButton(
